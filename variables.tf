@@ -9,14 +9,3 @@ variable "moule-location" {
 }
 
 
-variable "tier" {
-    default = "Standard" 
-    description = "Tier Value can be changed using this variable"
-  
-}
-
-variable "account_replication_type" {
-    default = "GRS"
-    description = "We can change the Account Replication Type using this variable"
-  
-}
