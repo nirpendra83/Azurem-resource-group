@@ -1,5 +1,5 @@
 variable "m-rg-name" {
-  default = "rg-module"
+  default = "rg-module12"
   description = "This is for Resource Group"
 }
 
